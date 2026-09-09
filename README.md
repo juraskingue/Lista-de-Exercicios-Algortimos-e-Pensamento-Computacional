@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios---Algor-timos-e-Pensamento-Computacional
+# Lista-de-Exercicios---Algoritimos-e-Pensamento-Computacional
